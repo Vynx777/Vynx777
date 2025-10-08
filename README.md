@@ -1,8 +1,6 @@
-<h1 align="left">Hi! I'm a developer from Poland.</h1>
+<h1 align="left">siedleckyy // DevOps Engineer</h1>
 
 ###
-
-<p align="left">siedleckyy // DevOps Engineer</p>
 
 ###
 
