@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I’m a developer from Poland passionate about creating innovative solutions and exploring new technologies. I love collaborating on projects and contributing to open-source communities.</p>
+<p align="left">siedleckyy // DevOps Engineer</p>
 
 ###
 
