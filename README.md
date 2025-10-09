@@ -25,6 +25,6 @@
    <img width="12" />
   <img src="/assets/mysql-original-wordmark.svg" height="40" alt="php logo"  />
   
-  <img src="https://raw.githubusercontent.com/siedleckyy/siedleckyy/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/siedleckyy/siedleckyy/blob/output/github-snake-dark.svg)
 
 ###
