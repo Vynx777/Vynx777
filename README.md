@@ -1,4 +1,4 @@
-<h1 align="left">Vynx777 // DevOps Engineer</h1>
+<h1 align="left">Vynx777 / Roblox Fullstack DEV/UX/UI Designer / Programist</h1>
 
 ###
 
